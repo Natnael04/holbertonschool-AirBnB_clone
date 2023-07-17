@@ -4,3 +4,8 @@
     width: 100%;
     position: fixed;
 }
+footer p {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
